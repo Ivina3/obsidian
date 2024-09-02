@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "742b2d4247912dde",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,17 +157,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3ce9c39be88171dc",
+  "active": "7c25058feb3ffc99",
   "lastOpenFiles": [
+    "2024-09-02.md",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
     "Без названия.md",
     "Java/Spring/Bean scope/Bean Scope.md",
-    "2024-09-02.md",
     "2024-08-30.md",
-    "Без названия.canvas",
     "Java/Spring/Bean scope",
     "Java/Spring/Spring Container/Spring Container.md",
     "Java/Spring/Spring Container/2. Spring Dependency Injection.md",
-    "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
     "Java/Spring/Без названия.canvas",
     "Java/Spring/Spring Container/Без названия 1.md",
     "Java/Spring/Без названия/Без названия.md",

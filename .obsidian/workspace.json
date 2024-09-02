@@ -11,11 +11,10 @@
             "id": "8a20545d6c0696a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
-                "mode": "source",
-                "source": false
+                "file": ".gitignore",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Spring/Spring Container/1. Spring Inversion of Control.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,12 +148,10 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "github-sync:Sync with Remote": false,
-      "syncthing-integration:Open Syncthing conflict manager modal": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8a20545d6c0696a8",
+  "active": "7c25058feb3ffc99",
   "lastOpenFiles": [
     "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
     "2024-09-02.md",

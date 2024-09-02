@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "72b066dcdfc23f22",
@@ -154,16 +155,17 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "7c25058feb3ffc99",
+  "active": "8a20545d6c0696a8",
   "lastOpenFiles": [
+    "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
     "2024-09-02.md",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
     "Без названия.canvas",
-    "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
     "Без названия.md",
     "Java/Spring/Bean scope/Bean Scope.md",
     "2024-08-30.md",

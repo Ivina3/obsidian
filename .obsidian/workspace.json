@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,7 +151,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d4861de14b4755b0",
+  "active": "7c25058feb3ffc99",
   "lastOpenFiles": [
     "Без названия.canvas",
     "Java/Spring/Spring Container/1. Spring Inversion of Control.md",

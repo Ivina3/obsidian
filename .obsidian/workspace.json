@@ -11,10 +11,11 @@
             "id": "8a20545d6c0696a8",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".gitignore",
-                "staged": false
+                "file": "2024-09-02.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-09-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-09-02.md"
+              }
             }
           },
           {
@@ -141,17 +146,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "audio-recorder:Начать/остановить запись": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c25058feb3ffc99",
+  "active": "8a20545d6c0696a8",
   "lastOpenFiles": [
     "Без названия.canvas",
     "Java/Spring/Spring Container/1. Spring Inversion of Control.md",

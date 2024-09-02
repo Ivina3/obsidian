@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "516decc01639ca77",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5302c6a2795d290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a20545d6c0696a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "742b2d4247912dde",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50c7f940fad5bf54",
+    "type": "split",
+    "children": [
+      {
+        "id": "89c8f7afd7903327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ce9c39be88171dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1409a6185724e81e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de1a4501266e2f3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72b066dcdfc23f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "119b3576c0a239a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed4feab19dba56d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b8f03eb375dfc7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40ec959bc4bb980a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d4861de14b4755b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/Spring/Spring Container/1. Spring Inversion of Control.md"
+              }
+            }
+          },
+          {
+            "id": "7c25058feb3ffc99",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "3ce9c39be88171dc",
+  "lastOpenFiles": [
+    "Без названия.md",
+    "Java/Spring/Bean scope/Bean Scope.md",
+    "2024-09-02.md",
+    "2024-08-30.md",
+    "Без названия.canvas",
+    "Java/Spring/Bean scope",
+    "Java/Spring/Spring Container/Spring Container.md",
+    "Java/Spring/Spring Container/2. Spring Dependency Injection.md",
+    "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
+    "Java/Spring/Без названия.canvas",
+    "Java/Spring/Spring Container/Без названия 1.md",
+    "Java/Spring/Без названия/Без названия.md",
+    "Java/Spring/Spring Container",
+    "Java/Spring/1 Spring Container.md",
+    "Java/Spring",
+    "Без названия/Без названия.md",
+    "Java",
+    "Без названия"
+  ]
+}

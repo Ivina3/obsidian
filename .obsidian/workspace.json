@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Конфигурации с помощтю аннотаций/Конфигурация Spring Container с помощью Java кода.md",
+                "file": "Java/Spring/Конфигурация Spring Container с помощью Java кода/Конфигурация Spring Container с помощью Java кода.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Конфигурации с помощтю аннотаций/Конфигурация Spring Container с помощью Java кода.md",
+                "file": "Java/Spring/Конфигурация Spring Container с помощью Java кода/Конфигурация Spring Container с помощью Java кода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Конфигурации с помощтю аннотаций/Конфигурация Spring Container с помощью Java кода.md",
+                "file": "Java/Spring/Конфигурация Spring Container с помощью Java кода/Конфигурация Spring Container с помощью Java кода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring/Конфигурации с помощтю аннотаций/Конфигурация Spring Container с помощью Java кода.md"
+                "file": "Java/Spring/Конфигурация Spring Container с помощью Java кода/Конфигурация Spring Container с помощью Java кода.md"
               }
             }
           },
@@ -281,10 +281,11 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "ad07d557d061ecae",
+  "active": "3ce9c39be88171dc",
   "lastOpenFiles": [
+    "Java/Spring/Конфигурация Spring Container с помощью Java кода",
     "Java/Spring/Конфигурации с помощтю аннотаций/Аннотации @Scope, @PostConstruct и @PreDestroy.md",
-    "Java/Spring/Конфигурации с помощтю аннотаций/Конфигурация Spring Container с помощью Java кода.md",
+    "Java/Spring/Конфигурация Spring Container с помощью Java кода/Конфигурация Spring Container с помощью Java кода.md",
     "Java/Spring/Конфигурации с помощтю аннотаций/Аннотация @Value.md",
     "Java/Spring/Конфигурации с помощтю аннотаций/Аннотация @Qualifier.md",
     "Java/Spring/Конфигурации с помощтю аннотаций/Аннотация @Autowired для конструктора.md",

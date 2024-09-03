@@ -38,4 +38,25 @@ public static void main(String[] args) {
     context.close();  
 }
 
+
+---
+
+@Configuration  
+public class MyConfig {  
+  
+    @Bean  
+    @Scope("singleton")  
+    public Pet catBean(){  
+        return new Cat();  
+    }  
+  
+    @Bean  
+    public Person personBean(){  
+        return new Person(catBean());  
+    }  
+}
 ```
+- Данный способ не использует сканирование пакета и поиск бинов. Здесь бины описываются в конфиг классе.
+- Данный способ не использует аннотацию @Autowired. Здесь зависимости прописываются вручную.
+- Название метода - это bean id.
+- Аннотация @Bean перехватывает все обращения к бину и регулирует его создание.

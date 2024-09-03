@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Before.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Before.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Before.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Before.md"
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md"
               }
             }
           },
@@ -283,10 +283,11 @@
   },
   "active": "ad07d557d061ecae",
   "lastOpenFiles": [
+    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Before.md",
+    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
     "Pasted image 20240903164952.png",
     "Pasted image 20240903164943.png",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Аспектно Ориентированное Программирование.md",
-    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Before.md",
     "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Аннотация @PropertySource.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование",
     "Java/Spring/Block 2",

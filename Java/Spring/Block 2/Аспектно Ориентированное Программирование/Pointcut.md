@@ -8,3 +8,5 @@ public void beforeGetBookAdvice() {
     System.out.println("попытка получить книгу");  
 }
 ```
+
+execution(public void get*()) - метод без параметра, где бы он ни находился, начинается на get.

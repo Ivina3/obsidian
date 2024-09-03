@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f25fe81add9189f",
+        "id": "3d7b26a902fe3e52",
         "type": "tabs",
         "children": [
           {
-            "id": "aa0b76326975d306",
+            "id": "5d2ede83cdee2fa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2024-09-03.md",
-                "mode": "source",
-                "source": false
+                "file": "Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -64,14 +67,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "f8f73c0f27cd1964",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -93,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-03.md",
+                "file": "Без названия.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-03.md",
+                "file": "Без названия.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-03.md"
+                "file": "Без названия.canvas"
               }
             }
           },
@@ -168,9 +163,47 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "b3727b3e7766e30d",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a059da204036f51f",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "94511f4963865c44",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
+      },
+      {
+        "id": "002ffbd3165364df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e77b8126974d350",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,16 +241,18 @@
   },
   "active": "3ce9c39be88171dc",
   "lastOpenFiles": [
-    "Безымянная Kanban-доска.md",
-    "2024-09-03.md",
-    "Без названия 3.canvas",
-    "Без названия 2.canvas",
+    "Без названия.canvas",
+    "Без названия/Без названия.canvas",
     "Без названия 1.canvas",
+    "Безымянная Kanban-доска.md",
+    "Без названия 2.canvas",
+    "Без названия",
+    "Без названия 3.canvas",
+    "2024-09-03.md",
     "Без названия.md",
     "Projects",
     "Tags",
     "2024-09-02.md",
-    "Без названия.canvas",
     "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
     "Java/Spring/Spring Container/Spring Container.md",
     "Java/Spring/Bean scope/Bean Scope.md",
@@ -231,7 +266,6 @@
     "Java/Spring/1 Spring Container.md",
     "Java/Spring",
     "Без названия/Без названия.md",
-    "Java",
-    "Без названия"
+    "Java"
   ]
 }

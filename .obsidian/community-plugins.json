@@ -25,11 +25,11 @@
   "google-calendar",
   "gpt-assistant",
   "heatmap-calendar",
-  "homepage",
   "html-server",
   "obsidian-icon-folder",
   "image-upload-toolkit",
   "obsidian-kanban",
   "obsidian-languagetool-plugin",
-  "translate"
+  "translate",
+  "homepage"
 ]

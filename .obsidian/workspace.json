@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Аннотация @PropertySource.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Аспектно Ориентированное Программирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Аннотация @PropertySource.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Аспектно Ориентированное Программирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Аннотация @PropertySource.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Аспектно Ориентированное Программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Аннотация @PropertySource.md"
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Аспектно Ориентированное Программирование.md"
               }
             }
           },
@@ -281,13 +281,14 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "3ce9c39be88171dc",
+  "active": "ad07d557d061ecae",
   "lastOpenFiles": [
-    "Java/Spring/Block 2/Без названия",
+    "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Аннотация @PropertySource.md",
+    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Аспектно Ориентированное Программирование.md",
+    "Java/Spring/Block 2/Аспектно Ориентированное Программирование",
     "Java/Spring/Block 2",
     "Java/Spring/Block 1",
     "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Конфигурация Spring Container с помощью Java кода.md",
-    "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Аннотация @PropertySource.md",
     "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода",
     "Java/Spring/Block 1/Конфигурации с помощью аннотаций/Аннотации @Scope, @PostConstruct и @PreDestroy.md",
     "Java/Spring/Block 1/Конфигурации с помощью аннотаций/Аннотация @Value.md",
@@ -322,7 +323,6 @@
     "Java/Spring/Без названия.canvas",
     "Java/Spring/Spring Container/Без названия 1.md",
     "Java/Spring/Без названия/Без названия.md",
-    "Java/Spring/Block 1/Spring Container",
     "Java/Spring/1 Spring Container.md",
     "Без названия/Без названия.md"
   ]

@@ -6,4 +6,8 @@ private String name;
 private int age;
 ```
 	всегда в ""
-	
+Можно использовать xml
+```
+<context:property-placeholder location="classpath:myApplication.properties"/>
+```
+тогда

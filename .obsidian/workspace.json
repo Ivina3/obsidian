@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Bean scope/Bean Scope.md",
+                "file": "Java/Spring/Block 1/Bean scope/Bean Scope.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Жизненный цикл бина/Жизненный цикл бина.md",
+                "file": "Java/Spring/Block 1/Жизненный цикл бина/Жизненный цикл бина.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Конфигурация Spring Container с помощью Java кода/Конфигурация Spring Container с помощью Java кода.md",
+                "file": "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Аннотация @PropertySource.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Конфигурация Spring Container с помощью Java кода/Конфигурация Spring Container с помощью Java кода.md",
+                "file": "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Аннотация @PropertySource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Конфигурация Spring Container с помощью Java кода/Конфигурация Spring Container с помощью Java кода.md",
+                "file": "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Аннотация @PropertySource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring/Конфигурация Spring Container с помощью Java кода/Конфигурация Spring Container с помощью Java кода.md"
+                "file": "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Аннотация @PropertySource.md"
               }
             }
           },
@@ -283,22 +283,26 @@
   },
   "active": "3ce9c39be88171dc",
   "lastOpenFiles": [
-    "Java/Spring/Конфигурация Spring Container с помощью Java кода",
-    "Java/Spring/Конфигурации с помощью аннотаций/Аннотации @Scope, @PostConstruct и @PreDestroy.md",
-    "Java/Spring/Конфигурация Spring Container с помощью Java кода/Конфигурация Spring Container с помощью Java кода.md",
-    "Java/Spring/Конфигурации с помощью аннотаций/Аннотация @Value.md",
-    "Java/Spring/Конфигурации с помощью аннотаций/Аннотация @Qualifier.md",
-    "Java/Spring/Конфигурации с помощью аннотаций/Аннотация @Autowired для конструктора.md",
-    "Java/Spring/Конфигурации с помощью аннотаций/Конфигурации с помощью аннотаций.md",
-    "Java/Spring/Жизненный цикл бина/Жизненный цикл бина.md",
-    "Java/Spring/Конфигурации с помощью аннотаций",
+    "Java/Spring/Block 2/Без названия",
+    "Java/Spring/Block 2",
+    "Java/Spring/Block 1",
+    "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Конфигурация Spring Container с помощью Java кода.md",
+    "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода/Аннотация @PropertySource.md",
+    "Java/Spring/Block 1/Конфигурация Spring Container с помощью Java кода",
+    "Java/Spring/Block 1/Конфигурации с помощью аннотаций/Аннотации @Scope, @PostConstruct и @PreDestroy.md",
+    "Java/Spring/Block 1/Конфигурации с помощью аннотаций/Аннотация @Value.md",
+    "Java/Spring/Block 1/Конфигурации с помощью аннотаций/Аннотация @Qualifier.md",
+    "Java/Spring/Block 1/Конфигурации с помощью аннотаций/Аннотация @Autowired для конструктора.md",
+    "Java/Spring/Block 1/Конфигурации с помощью аннотаций/Конфигурации с помощью аннотаций.md",
+    "Java/Spring/Block 1/Жизненный цикл бина/Жизненный цикл бина.md",
+    "Java/Spring/Block 1/Конфигурации с помощью аннотаций",
     "Java/Spring/Жизненный цикл бина/Untitled Diagram 1.svg",
     "Java/Spring/Жизненный цикл бина/Untitled Diagram.svg",
     "Java/Spring/Жизненный цикл бина/Untitled Diagram 2.svg",
-    "Java/Spring/Bean scope/Bean Scope.md",
-    "Java/Spring/Жизненный цикл бина",
-    "Java/Spring/Spring Container/2. Spring Dependency Injection.md",
-    "Java/Spring/Spring Container/Spring Container.md",
+    "Java/Spring/Block 1/Bean scope/Bean Scope.md",
+    "Java/Spring/Block 1/Жизненный цикл бина",
+    "Java/Spring/Block 1/Spring Container/2. Spring Dependency Injection.md",
+    "Java/Spring/Block 1/Spring Container/Spring Container.md",
     "Безымянная Kanban-доска.md",
     "2024-W36.md",
     "2024-09-03.md",
@@ -312,16 +316,14 @@
     "Projects",
     "Tags",
     "2024-09-02.md",
-    "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
+    "Java/Spring/Block 1/Spring Container/1. Spring Inversion of Control.md",
     "2024-08-30.md",
-    "Java/Spring/Bean scope",
+    "Java/Spring/Block 1/Bean scope",
     "Java/Spring/Без названия.canvas",
     "Java/Spring/Spring Container/Без названия 1.md",
     "Java/Spring/Без названия/Без названия.md",
-    "Java/Spring/Spring Container",
+    "Java/Spring/Block 1/Spring Container",
     "Java/Spring/1 Spring Container.md",
-    "Java/Spring",
-    "Без названия/Без названия.md",
-    "Java"
+    "Без названия/Без названия.md"
   ]
 }

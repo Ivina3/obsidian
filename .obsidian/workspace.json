@@ -11,11 +11,15 @@
             "id": "e650d840b1894f96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
+                "file": "Безымянная Kanban-доска.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    true
+                  ]
+                }
               }
             }
           }
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Безымянная Kanban-доска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Безымянная Kanban-доска.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Безымянная Kanban-доска.md"
               }
             }
           },
@@ -201,6 +205,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "ad6aecbee1521231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ef7d489df0edc89",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,6 +254,7 @@
   },
   "active": "e650d840b1894f96",
   "lastOpenFiles": [
+    "2024-09-03.md",
     "Безымянная Kanban-доска.md",
     "Home.md",
     "Java/Spring/Bean scope/Bean Scope.md",
@@ -245,7 +264,6 @@
     "Без названия 1.canvas",
     "Без названия 2.canvas",
     "Без названия 3.canvas",
-    "2024-09-03.md",
     "Projects",
     "Tags",
     "2024-09-02.md",

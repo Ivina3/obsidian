@@ -6,3 +6,11 @@
 public class MyConfig {  
 }
 ```
+@Aspect - говорит о том, что это не простой класс,  а Aspect. Поэтому к данному классу Spring будет относиться по другому.
+```
+@Component  
+@Aspect  
+public class LoggingAspect {  
+}
+```
+Aspect - класс, отвечающий за сквозную функциональность.

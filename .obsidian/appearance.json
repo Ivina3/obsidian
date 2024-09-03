@@ -1,3 +1,5 @@
 {
-  "cssTheme": ""
+  "cssTheme": "Material Flat",
+  "theme": "obsidian",
+  "accentColor": "#954b8f"
 }

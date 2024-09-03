@@ -6,8 +6,14 @@ private String name;
 private int age;
 ```
 	всегда в ""
-Можно использовать xml
+Можно использовать xml и properties
 ```
 <context:property-placeholder location="classpath:myApplication.properties"/>
 ```
-тогда
+тогда:
+```
+@Value("${person.name}")  
+private String name;  
+@Value("${person.age}")  
+private int age;
+```

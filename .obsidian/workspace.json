@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Конфигурации с помощтю аннотаций/Аннотация @Value.md",
+                "file": "Java/Spring/Конфигурации с помощтю аннотаций/Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Конфигурации с помощтю аннотаций/Аннотация @Value.md",
+                "file": "Java/Spring/Конфигурации с помощтю аннотаций/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Конфигурации с помощтю аннотаций/Аннотация @Value.md",
+                "file": "Java/Spring/Конфигурации с помощтю аннотаций/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring/Конфигурации с помощтю аннотаций/Аннотация @Value.md"
+                "file": "Java/Spring/Конфигурации с помощтю аннотаций/Без названия.md"
               }
             }
           },
@@ -283,8 +283,9 @@
   },
   "active": "ad07d557d061ecae",
   "lastOpenFiles": [
-    "Java/Spring/Конфигурации с помощтю аннотаций/Аннотация @Qualifier.md",
     "Java/Spring/Конфигурации с помощтю аннотаций/Аннотация @Value.md",
+    "Java/Spring/Конфигурации с помощтю аннотаций/Без названия.md",
+    "Java/Spring/Конфигурации с помощтю аннотаций/Аннотация @Qualifier.md",
     "Java/Spring/Конфигурации с помощтю аннотаций/Аннотация @Autowired для конструктора.md",
     "Java/Spring/Конфигурации с помощтю аннотаций/Конфигурации с помощью аннотаций.md",
     "Java/Spring/Жизненный цикл бина/Жизненный цикл бина.md",

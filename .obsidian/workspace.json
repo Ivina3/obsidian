@@ -23,9 +23,11 @@
             "id": "f6f983e31c24cb76",
             "type": "leaf",
             "state": {
-              "type": "diagram",
+              "type": "markdown",
               "state": {
-                "file": "Java/Spring/Жизненный цикл бина/Untitled Diagram 1.svg"
+                "file": "Java/Spring/Жизненный цикл бина/Жизненный цикл бина.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Жизненный цикл бина/Untitled Diagram 1.svg",
+                "file": "Java/Spring/Жизненный цикл бина/Жизненный цикл бина.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Жизненный цикл бина/Untitled Diagram 1.svg",
+                "file": "Java/Spring/Жизненный цикл бина/Жизненный цикл бина.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring/Жизненный цикл бина/Untitled Diagram 1.svg"
+                "file": "Java/Spring/Жизненный цикл бина/Жизненный цикл бина.md"
               }
             }
           },
@@ -269,10 +271,10 @@
   },
   "active": "f6f983e31c24cb76",
   "lastOpenFiles": [
+    "Java/Spring/Жизненный цикл бина/Untitled Diagram 1.svg",
     "Java/Spring/Жизненный цикл бина/Жизненный цикл бина.md",
     "Java/Spring/Жизненный цикл бина/Untitled Diagram.svg",
     "Java/Spring/Жизненный цикл бина/Untitled Diagram 2.svg",
-    "Java/Spring/Жизненный цикл бина/Untitled Diagram 1.svg",
     "Java/Spring/Bean scope/Bean Scope.md",
     "Java/Spring/Жизненный цикл бина",
     "Java/Spring/Spring Container/2. Spring Dependency Injection.md",

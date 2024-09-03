@@ -22,3 +22,19 @@ Aspect - класс, отвечающий за сквозную функцион
 - After throwing - выполняется после окончания метода с основной логикой только, если было выброшено исключение.
 - After/ After finally - выполняется после окончания метода с основной логикой.
 - Around - выполняется до и после метода с основной логикой.
+---
+@Before
+```
+@Component  
+@Aspect  
+public class LoggingAspect {  
+      
+    @Before("execution(public void getBook())")  
+    public void beforeGetBookAdvice() {  
+        System.out.println("попытка получить книгу");  
+    }  
+}
+```
+	advice определяет, что и когда должно происходить. В идеале advice должен быть небольшим и быстро работающим.
+	Pointcut - выражение, описывающее где должен быть применен Advice.
+	

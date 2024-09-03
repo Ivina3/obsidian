@@ -11,11 +11,14 @@
             "id": "8a20545d6c0696a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2024-09-03.md",
-                "mode": "source",
-                "source": false
+                "file": "Без названия 3.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -66,7 +69,7 @@
             }
           },
           {
-            "id": "f1c6f0e277bf057a",
+            "id": "f8f73c0f27cd1964",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -74,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-03.md",
+                "file": "Без названия 3.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-03.md",
+                "file": "Без названия 3.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-03.md"
+                "file": "Без названия 3.canvas"
               }
             }
           },
@@ -162,7 +165,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -197,10 +201,12 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "3ce9c39be88171dc",
+  "active": "de1a4501266e2f3c",
   "lastOpenFiles": [
-    "Без названия 1.canvas",
     "2024-09-03.md",
+    "Без названия 3.canvas",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
     "Без названия.md",
     "Projects",
     "Tags",
@@ -208,7 +214,6 @@
     "Без названия.canvas",
     "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
     "Java/Spring/Spring Container/Spring Container.md",
-    "Без названия 2.canvas",
     "Java/Spring/Bean scope/Bean Scope.md",
     "2024-08-30.md",
     "Java/Spring/Bean scope",

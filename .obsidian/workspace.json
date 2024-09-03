@@ -4,25 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3d7b26a902fe3e52",
+        "id": "3e27532cdcb14cd0",
         "type": "tabs",
         "children": [
           {
-            "id": "5d2ede83cdee2fa7",
+            "id": "943e8e1e4aa647ca",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Без названия.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                "file": "Java/Spring/Bean scope/Bean Scope.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e650d840b1894f96",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Безымянная Kanban-доска.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290
   },
   "right": {
     "id": "72b066dcdfc23f22",
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "Безымянная Kanban-доска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "Безымянная Kanban-доска.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.canvas"
+                "file": "Безымянная Kanban-доска.md"
               }
             }
           },
@@ -239,23 +251,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3ce9c39be88171dc",
+  "active": "e650d840b1894f96",
   "lastOpenFiles": [
-    "Без названия.canvas",
+    "Home.md",
+    "Безымянная Kanban-доска.md",
+    "Java/Spring/Bean scope/Bean Scope.md",
+    "Без названия",
+    "Homepage.canvas",
     "Без названия/Без названия.canvas",
     "Без названия 1.canvas",
-    "Безымянная Kanban-доска.md",
     "Без названия 2.canvas",
-    "Без названия",
     "Без названия 3.canvas",
     "2024-09-03.md",
-    "Без названия.md",
     "Projects",
     "Tags",
     "2024-09-02.md",
     "Java/Spring/Spring Container/1. Spring Inversion of Control.md",
     "Java/Spring/Spring Container/Spring Container.md",
-    "Java/Spring/Bean scope/Bean Scope.md",
     "2024-08-30.md",
     "Java/Spring/Bean scope",
     "Java/Spring/Spring Container/2. Spring Dependency Injection.md",

@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c5302c6a2795d290",
+        "id": "3f25fe81add9189f",
         "type": "tabs",
         "children": [
           {
-            "id": "8a20545d6c0696a8",
+            "id": "aa0b76326975d306",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Без названия 3.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "2024-09-03.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "72b066dcdfc23f22",
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия 3.canvas",
+                "file": "2024-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия 3.canvas",
+                "file": "2024-09-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия 3.canvas"
+                "file": "2024-09-03.md"
               }
             }
           },
@@ -164,9 +160,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "a5af2ea88b0a4ab4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -198,11 +202,13 @@
       "html-server:Turn Http Server On": false,
       "html-server:Turn Http Server Off": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "syncthing-integration:Open Syncthing conflict manager modal": false
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "de1a4501266e2f3c",
+  "active": "3ce9c39be88171dc",
   "lastOpenFiles": [
+    "Безымянная Kanban-доска.md",
     "2024-09-03.md",
     "Без названия 3.canvas",
     "Без названия 2.canvas",

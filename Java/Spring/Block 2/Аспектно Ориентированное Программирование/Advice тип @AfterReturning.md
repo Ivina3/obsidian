@@ -48,3 +48,7 @@ info about getStudents:
 [Student{name='Mr.Ivi', course=3, averageGrade=5.0}, Student{name='Ivi2', course=1, averageGrade=3.0}, Student{name='Ivina', course=3, averageGrade=9.0}]
 
 ```
+
+@AfterReturning Advice выполняется только после нормального окончания метода с основной логикой, но до присвоения результата этого метода какой-либо переменной. Поэтому с помощью @Afterreturning Advice возможно изменять возвращаемый результат метода.
+		**returning = "students" значит в параметрах тоже должен быть students!!!**
+		

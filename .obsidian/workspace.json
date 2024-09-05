@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @AfterReturning.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @AfterReturning.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @AfterReturning.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @AfterReturning.md"
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Без названия.md"
               }
             }
           },
@@ -263,8 +263,9 @@
   },
   "active": "2de45d2675875a91",
   "lastOpenFiles": [
-    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Join Point.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @AfterReturning.md",
+    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Без названия.md",
+    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Join Point.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Порядок выполнения Aspect.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
     "Home.md",
@@ -308,7 +309,6 @@
     "2024-08-30.md",
     "Java/Spring/Block 1/Bean scope",
     "Java/Spring/Без названия.canvas",
-    "Java/Spring/Spring Container/Без названия 1.md",
-    "Java/Spring/Без названия/Без названия.md"
+    "Java/Spring/Spring Container/Без названия 1.md"
   ]
 }

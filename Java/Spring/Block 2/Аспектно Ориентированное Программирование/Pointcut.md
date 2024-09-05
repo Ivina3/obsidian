@@ -12,3 +12,11 @@ public void beforeGetBookAdvice() {
 execution(public void get*()) - метод без параметра, где бы он ни находился, начинается на get.
 execution(public void get*(..)) - с любым количеством параметров.
 execution(public void getBook(aop.Book)) - если мы указываем объект в параметре, надо писать весь путь!
+
+---
+#### Объявление Pointcut
+Для того, чтобы не пользоваться copy-paste когда для нескольких Advice-ов подходит один и тот же Pointcut, есть возможность объявить данный Pointcut и затем использовать его несколько раз.
+
+> @Pointcut("pointcut_expression")
+> private void pointcut_reference(){}
+

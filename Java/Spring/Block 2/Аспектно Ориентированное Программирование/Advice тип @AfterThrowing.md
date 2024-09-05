@@ -49,3 +49,16 @@ start get students
 
 Process finished with exit code 0
 ```
+---
+```
+@AfterThrowing(pointcut = "execution(* getStudents())", throwing = "exeption")  
+public void afterThrowingGetStudentsLoggingAdvice(Throwable exeption) {  
+  
+    System.out.println("логирум выброс исключения"+ exeption);  
+}
+---
+логируем перед методом getStudents
+start get students
+логирум выброс исключенияjava.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3
+Было поймано исключение java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3
+```

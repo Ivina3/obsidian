@@ -14,7 +14,7 @@ execution(public void get*(..)) - с любым количеством пара�
 execution(public void getBook(aop.Book)) - если мы указываем объект в параметре, надо писать весь путь!
 
 ---
-#### Объявление Pointcut
+## Объявление Pointcut
 Для того, чтобы не пользоваться copy-paste когда для нескольких Advice-ов подходит один и тот же Pointcut, есть возможность объявить данный Pointcut и затем использовать его несколько раз.
 
 ```
@@ -26,3 +26,24 @@ private void pointcut_reference(){}
 @Before("pointcut_reference()")
 public void advice_name(){ some code }
 ```
+
+```
+@Pointcut("execution(* get*())")  
+private void allGetMethode(){}  
+  
+@Before("allGetMethode()")  
+public void beforeGetBookLoggingAdvice() {  
+    System.out.println("попытка получить книгу");  
+}  
+  
+@Before("allGetMethode()")  
+public void beforeGetBookSecurityAdvice() {  
+    System.out.println("proverka prav");  
+}
+```
+Плюсы объявления Pointcut:
+- Возможность использования созданного Pointcut для множества Advice-ов
+- Возможность быстрого изменения Pointcut expression для множества Advice-ов
+- Возможность комбинирования Pointcut-ов
+---
+## Комбинирование Pointcut

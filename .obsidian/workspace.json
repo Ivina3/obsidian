@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Порядок выполнения Aspect.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Порядок выполнения Aspect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Порядок выполнения Aspect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md"
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Порядок выполнения Aspect.md"
               }
             }
           },
@@ -261,10 +261,11 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "3ce9c39be88171dc",
+  "active": "2de45d2675875a91",
   "lastOpenFiles": [
-    "Home.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
+    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Порядок выполнения Aspect.md",
+    "Home.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Before.md",
     "Pasted image 20240903164952.png",
     "Pasted image 20240903164943.png",

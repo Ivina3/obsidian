@@ -47,3 +47,5 @@ public void beforeGetBookSecurityAdvice() {
 - Возможность комбинирования Pointcut-ов
 ---
 ## Комбинирование Pointcut
+
+Комбинирование Pointcut - это их объединение с помощью логических операторов && || !

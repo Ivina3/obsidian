@@ -74,3 +74,20 @@ public void beforeGetLoggingAdvice(){
     System.out.println("Before getting logging advice");  
 }
 ```
+
+example except 1 methode:
+```
+@Pointcut("execution(* aop.UniLibrary.*(..))")  
+private void allMethods() {}  
+  
+@Pointcut("execution(public void aop.UniLibrary.returnMagazine())")  
+private void returnMagazine() {}  
+  
+@Pointcut("allMethods() && !returnMagazine()")  
+private void allMethodsExceptReturnMagazine() {}  
+  
+@Before("allMethodsExceptReturnMagazine()")  
+public void beforeAllMethodsExceptReturnMagazine() {  
+    System.out.println("Logg");  
+}
+```

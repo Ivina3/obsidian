@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md"
               }
             }
           },
@@ -261,8 +261,9 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "2de45d2675875a91",
+  "active": "3ce9c39be88171dc",
   "lastOpenFiles": [
+    "Home.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Before.md",
     "Pasted image 20240903164952.png",
@@ -291,7 +292,6 @@
     "Безымянная Kanban-доска.md",
     "2024-W36.md",
     "2024-09-03.md",
-    "Home.md",
     "Без названия",
     "Homepage.canvas",
     "Без названия/Без названия.canvas",

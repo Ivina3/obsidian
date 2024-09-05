@@ -10,3 +10,4 @@ public void beforeGetBookAdvice() {
 ```
 
 execution(public void get*()) - метод без параметра, где бы он ни находился, начинается на get.
+execution(public void get*(..)) - с любым количеством параметров.

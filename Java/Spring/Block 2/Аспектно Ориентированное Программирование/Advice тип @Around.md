@@ -83,3 +83,37 @@ public class test3 {
 }
 ```
 Example 3
+```
+@Component  
+@Aspect  
+public class NewLoggingAspect {  
+    @Around("execution(public String returnBook())")  
+    public Object aroundReturnBookLiggingAdvice(ProceedingJoinPoint proceedingJoinPoint) throws Throwable {  
+        System.out.println("try return book -_-");  
+        Object targetMethodresult= null;  
+        try {  
+            targetMethodresult = proceedingJoinPoint.proceed();  
+        } catch (Exception e) {  
+            System.out.println("around " + e);  
+            targetMethodresult = proceedingJoinPoint.proceed();  
+            throw e;  
+        }  
+  
+        System.out.println("return book success -_-");  
+        return targetMethodresult;  
+    }  
+}
+---
+main start
+try return book -_-
+around java.lang.ArithmeticException: / by zero
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+	at aop.UniLibrary.returnBook(UniLibrary.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:355)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+```

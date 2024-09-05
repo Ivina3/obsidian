@@ -17,6 +17,12 @@ execution(public void getBook(aop.Book)) - если мы указываем об
 #### Объявление Pointcut
 Для того, чтобы не пользоваться copy-paste когда для нескольких Advice-ов подходит один и тот же Pointcut, есть возможность объявить данный Pointcut и затем использовать его несколько раз.
 
-> @Pointcut("pointcut_expression")
-> private void pointcut_reference(){}
+```
+@Pointcut("pointcut_expression")
+private void pointcut_reference(){}
 
+---
+
+@Before("pointcut_reference()")
+public void advice_name(){ some code }
+```

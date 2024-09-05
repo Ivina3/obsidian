@@ -49,3 +49,28 @@ public void beforeGetBookSecurityAdvice() {
 ## Комбинирование Pointcut
 
 Комбинирование Pointcut - это их объединение с помощью логических операторов && || !
+
+```
+@Pointcut("execution(* aop.UniLibrary.get*())")  
+private void allGetMethodFromUniLibrary() {  
+}  
+@Pointcut("execution(* aop.UniLibrary.return*())")  
+private void allReturnMethodFromUniLibrary() {  
+}  
+@Pointcut("allGetMethodFromUniLibrary() || allReturnMethodFromUniLibrary()")  
+private void allGetAndReturnMethodFromUniLibrary() {}  
+  
+@Before("allGetAndReturnMethodFromUniLibrary()")  
+public void beforeGetAndReturnMethodFromUniLibrary() {  
+    System.out.println("Before all get and return method from uni-library");  
+}  
+@Before("allReturnMethodFromUniLibrary()")  
+public void beforeReturnLoggingAdvice(){  
+    System.out.println("Before Return Method from UniLibrary");  
+}  
+  
+@Before("allGetMethodFromUniLibrary()")  
+public void beforeGetLoggingAdvice(){  
+    System.out.println("Before getting logging advice");  
+}
+```

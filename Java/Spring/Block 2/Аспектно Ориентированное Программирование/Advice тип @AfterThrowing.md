@@ -62,3 +62,4 @@ start get students
 логирум выброс исключенияjava.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3
 Было поймано исключение java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3
 ```
+@AfterThrowing Advice не влияет на протекание программы при выбрасывании исключения. С помощью @AfterThrowing Advice можно получить доступ к исключению, которое выбросилось из метода с основной логикой.

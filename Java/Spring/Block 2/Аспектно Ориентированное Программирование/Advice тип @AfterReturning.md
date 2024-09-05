@@ -23,3 +23,28 @@ info about getStudents:
 ```
 
 ---
+```
+@Component  
+@Aspect  
+public class UniversityLogginAspect {  
+    @Before("execution(* getStudents())")  
+    public void beforeGetStudentsLoggingAdvice(JoinPoint joinPoint) {  
+        System.out.println("логируем перед методом getStudents");  
+    }  
+    @AfterReturning(pointcut = "execution(* getStudents())", returning = "students")  
+    public void afterReturningGetStudentsLoggingAdvice(List<Student> students) {  
+        Student firstStudent = students.get(0);  
+        String firstName = firstStudent.getName();  
+        firstName = "Mr." + firstName;  
+        firstStudent.setName(firstName);  
+        System.out.println("логируем после методом getStudents");  
+    }  
+}
+---
+логируем перед методом getStudents
+info about getStudents: 
+[Student{name='Ivi', course=3, averageGrade=5.0}, Student{name='Ivi2', course=1, averageGrade=3.0}, Student{name='Ivina', course=3, averageGrade=9.0}]
+логируем после методом getStudents
+[Student{name='Mr.Ivi', course=3, averageGrade=5.0}, Student{name='Ivi2', course=1, averageGrade=3.0}, Student{name='Ivina', course=3, averageGrade=9.0}]
+
+```

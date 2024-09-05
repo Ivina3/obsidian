@@ -11,3 +11,4 @@ public void beforeGetBookAdvice() {
 
 execution(public void get*()) - метод без параметра, где бы он ни находился, начинается на get.
 execution(public void get*(..)) - с любым количеством параметров.
+execution(public void getBook(aop.Book)) - если мы указываем объект в параметре, надо писать весь путь!

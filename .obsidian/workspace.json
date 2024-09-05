@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @After.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Around.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @After.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Around.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @After.md",
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Around.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @After.md"
+                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Around.md"
               }
             }
           },
@@ -261,10 +261,10 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "2de45d2675875a91",
+  "active": "3ce9c39be88171dc",
   "lastOpenFiles": [
-    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Around.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @After.md",
+    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Around.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @AfterThrowing.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @AfterReturning.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Join Point.md",

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e650d840b1894f96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Spring/Block 1/Bean scope/Bean Scope.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f6f983e31c24cb76",
             "type": "leaf",
             "state": {
@@ -32,27 +20,19 @@
             }
           },
           {
-            "id": "ad07d557d061ecae",
+            "id": "2de45d2675875a91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "2de45d2675875a91",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md"
+                "file": "Home.md"
               }
             }
           },
@@ -281,10 +261,10 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "ad07d557d061ecae",
+  "active": "2de45d2675875a91",
   "lastOpenFiles": [
-    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Before.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
+    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Before.md",
     "Pasted image 20240903164952.png",
     "Pasted image 20240903164943.png",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Аспектно Ориентированное Программирование.md",

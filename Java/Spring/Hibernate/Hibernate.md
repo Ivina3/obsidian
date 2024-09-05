@@ -14,3 +14,11 @@ Java application <---> Hibernate <--->Database
 			 get <---- hibernate
 			- напишет SELECT выражения для получения необходимых данных;
 			- создание объекта Java класса и присвоение его полям значений, полученных  из базы.
+	3. Уменьшает количество кода для написания
+### Hibernate использует JDBC для работы с базой данных!
+---
+## CRUD
+	- CREATE - команда INSERT
+	- READ - команда SELECT
+	- UPDATE - команда UPDATE
+	- DELETE - команда DELETE

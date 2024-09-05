@@ -44,3 +44,42 @@ main end
 Можно предпринять следующие действия, если из target метода выбрасываются исключение:
 	- ничего не делать
 	- обрабатывать исключение
+	- пробрасывать исключение дальше
+Example 2
+```
+@Around("execution(public String returnBook())")  
+public Object aroundReturnBookLiggingAdvice(ProceedingJoinPoint proceedingJoinPoint) throws Throwable {  
+    System.out.println("try return book -_-");  
+    Object targetMethodresult= null;  
+    try {  
+        targetMethodresult = proceedingJoinPoint.proceed();  
+    } catch (Exception e) {  
+        System.out.println("around " + e);  
+        targetMethodresult = "неизвестое значение книги";  
+    }  
+      
+    System.out.println("return book success -_-");  
+    return targetMethodresult;  
+}
+---
+main start
+try return book -_-
+around java.lang.ArithmeticException: / by zero
+return book success -_-
+return неизвестое значение книги
+main end
+---
+public class test3 {  
+    public static void main(String[] args) {  
+        System.out.println("main start");  
+        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(MyConfig.class);  
+       UniLibrary uniLibrary = context.getBean("uniLibrary", UniLibrary.class);  
+       String bookName = uniLibrary.returnBook();  
+        System.out.println("return "+bookName);  
+  
+        context.close();  
+        System.out.println("main end");  
+    }  
+}
+```
+Example 3

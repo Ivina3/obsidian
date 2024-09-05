@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Без названия.md",
+                "file": "Java/Spring/Hibernate/Hibernate.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Без названия.md",
+                "file": "Java/Spring/Hibernate/Hibernate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Без названия.md",
+                "file": "Java/Spring/Hibernate/Hibernate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring/Без названия.md"
+                "file": "Java/Spring/Hibernate/Hibernate.md"
               }
             }
           },
@@ -198,8 +198,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "002ffbd3165364df",
@@ -264,6 +263,8 @@
   "active": "2de45d2675875a91",
   "lastOpenFiles": [
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Around.md",
+    "Java/Spring/Hibernate/Hibernate.md",
+    "Java/Spring/Hibernate",
     "Java/Spring/Без названия.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @After.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @AfterThrowing.md",
@@ -307,8 +308,6 @@
     "Без названия 3.canvas",
     "Projects",
     "Tags",
-    "2024-09-02.md",
-    "Java/Spring/Block 1/Bean scope",
     "Java/Spring/Без названия.canvas"
   ]
 }

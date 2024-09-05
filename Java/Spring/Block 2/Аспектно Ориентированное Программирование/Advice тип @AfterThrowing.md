@@ -22,3 +22,30 @@ Exception in thread "main" java.lang.IndexOutOfBoundsException: Index 3 out of b
 	at java.base/java.util.Objects.checkIndex(Objects.java:361)
 	at java.base/java.util.ArrayList.get(ArrayList.java:427)
 ```
+---
+```
+
+public class test2 {  
+    public static void main(String[] args) {  
+        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(MyConfig.class);  
+        University university = context.getBean("university",University.class);  
+        university.addStudent();  
+        try {  
+            List<Student> students = university.getStudents();  
+            System.out.println(students);  
+        } catch (Exception e) {  
+            System.out.println("Было поймано исключение " + e);  
+        }  
+  
+  
+        context.close();  
+    }  
+}
+---
+логируем перед методом getStudents
+start get students
+логирум выброс исключения
+Было поймано исключение java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3
+
+Process finished with exit code 0
+```

@@ -255,9 +255,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-comments:Show Comments Panel": false,
       "translate:Open translation view": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "html-server:Turn Http Server On": false,
-      "html-server:Turn Http Server Off": false
+      "fantasy-content-generator:Fantasy Generators": false
     }
   },
   "active": "2de45d2675875a91",

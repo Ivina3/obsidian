@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3e27532cdcb14cd0",
+        "id": "ce7f756accbf4707",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f983e31c24cb76",
+            "id": "74de76e9a3a028b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Block 1/Жизненный цикл бина/Жизненный цикл бина.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2de45d2675875a91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Spring/Hibernate/Hibernate.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Hibernate/Hibernate.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Hibernate/Hibernate.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring/Hibernate/Hibernate.md"
+                "file": "Home.md"
               }
             }
           },
@@ -255,13 +242,15 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-comments:Show Comments Panel": false,
       "translate:Open translation view": false,
-      "fantasy-content-generator:Fantasy Generators": false
+      "fantasy-content-generator:Fantasy Generators": false,
+      "html-server:Turn Http Server On": false,
+      "html-server:Turn Http Server Off": false
     }
   },
-  "active": "2de45d2675875a91",
+  "active": "74de76e9a3a028b3",
   "lastOpenFiles": [
-    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Around.md",
     "Java/Spring/Hibernate/Hibernate.md",
+    "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Around.md",
     "Java/Spring/Hibernate",
     "Java/Spring/Без названия.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @After.md",

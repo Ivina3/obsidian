@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce7f756accbf4707",
+        "id": "37e58237e631d14b",
         "type": "tabs",
         "children": [
           {
-            "id": "74de76e9a3a028b3",
+            "id": "e92afd879aba5200",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -247,9 +247,10 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "74de76e9a3a028b3",
+  "active": "e92afd879aba5200",
   "lastOpenFiles": [
     "Java/Spring/Hibernate/Hibernate.md",
+    "Home.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Around.md",
     "Java/Spring/Hibernate",
     "Java/Spring/Без названия.md",
@@ -259,7 +260,6 @@
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Join Point.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Порядок выполнения Aspect.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Pointcut.md",
-    "Home.md",
     "Java/Spring/Block 2/Аспектно Ориентированное Программирование/Advice тип @Before.md",
     "Pasted image 20240903164952.png",
     "Pasted image 20240903164943.png",
